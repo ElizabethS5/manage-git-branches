@@ -11,3 +11,5 @@ function click(e) {
   let link = e.currentTarget;
   link.classList.add("highlight");
 }
+
+// comment
